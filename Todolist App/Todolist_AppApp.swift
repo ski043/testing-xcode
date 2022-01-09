@@ -11,7 +11,7 @@ import SwiftUI
 struct Todolist_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Mainview()
         }
     }
 }
